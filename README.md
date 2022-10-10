@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+I'm working with JAVA, JS
+
+Follow me:
+https://t.me/pavelshnurov
+
 
 <!--
 **shnurov/shnurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
