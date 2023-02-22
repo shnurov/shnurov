@@ -4,6 +4,8 @@
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
+![Codewars](https://www.codewars.com/users/shnurov/badges/small)
+
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pavelshnurov)
