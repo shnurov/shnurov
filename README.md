@@ -12,7 +12,7 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-[![Codewars](https://www.codewars.com/users/shnurov/badges/small)](https://www.codewars.com/users/shnurov)
+[![Codewars](https://www.codewars.com/users/rsschool_cf1010ea36f0ffa4/badges/small)](https://www.codewars.com/users/rsschool_cf1010ea36f0ffa4/)
 
 #### Socials
 
