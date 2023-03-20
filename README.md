@@ -22,6 +22,7 @@
 
 #### My projects
 
+* [my CV](https://shnurov.github.io/cv/)
 * [website for yacht rental](http://yacht4.me/)
 * [slider with parallax](https://shnurov.github.io/stalker3d)
 
