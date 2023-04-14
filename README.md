@@ -23,7 +23,8 @@
 #### My projects
 
 * [my CV](https://shnurov.github.io/cv/)
-* [website for yacht rental](http://yacht4.me/)
+* [shelter website](https://rolling-scopes-school.github.io/shnurov-JSFE2023Q1/shelter/index.html)
+* [yacht rental ver.1](http://yacht4.me/) and [yacht rental ver.2](https://shnurov.github.io/rentyacht/)
 * [slider with parallax](https://shnurov.github.io/stalker3d)
 
 
