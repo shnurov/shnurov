@@ -27,6 +27,7 @@
 #### My projects
 
 * [my CV](https://shnurov.github.io/cv/)
+* [pizzeria website with React and Redux](http://pizza.specplay.ru/)
 * [shelter website](https://rolling-scopes-school.github.io/shnurov-JSFE2023Q1/shelter/index.html)
 * [exchange rates react-app](https://coin-cb182.web.app/)
 * [yacht rental ver.1](http://yacht4.me/) and [yacht rental ver.2](https://shnurov.github.io/rentyacht/)
